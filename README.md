@@ -3,8 +3,6 @@
 Consulta e cadastro de alunos e matrículas, e consulta do catálogo de disciplinas.
 Next.js (App Router) + TypeScript, organizado em `src/`.
 
-Autor: [P3droGs](https://github.com/P3droGs) · Laboratório de Desenvolvimento Web, Fatec (Prof. Arley)
-
 ## Como rodar
 
 ```bash
